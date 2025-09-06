@@ -1,5 +1,4 @@
-
-# signal_ICT_KulangJamesGatgong_92400133006
+# SIGNAL OPERATIONS 
 
 A Python package for signal processing, including various signal generation and manipulation functions.
 
@@ -16,5 +15,6 @@ You can install the package using pip:
 
 ```bash
 pip install signal_ICT_KulangJamesGatgong_92400133006
+
 
 
