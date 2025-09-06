@@ -4,12 +4,9 @@ Created on Sat Sep  6 16:05:54 2025
 
 @author: Kulang James Gatgong
 """
-# test_install_all.py
-# This script tests all functions in signal_ict_kings package
-# Run this to verify installation from TestPyPI
 
 import numpy as np
-import signal_ict_Seshu_Vardhan_Reddy_92400133167 as sik  # Fixed import statement
+import signal_ict_Kulang_James_Gatgong_92400133006 as sik  
 
 print("===== Testing signal_ict_Seshu_Vardhan_Reddy package =====")
 
@@ -52,3 +49,4 @@ print("Signal Addition (Step + Ramp):", added)
 # 10. Signal Multiplication
 multiplied = sik.signal_multiplication(sine, cosine)
 print("Signal Multiplication (first 10 values):", multiplied[:10])
+
