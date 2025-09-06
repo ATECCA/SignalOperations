@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  6 15:23:02 2025
-
-@author: Kulang James Gatgong
-"""
 
 # signal_ICT_KulangJamesGatgong_92400133006
 
@@ -22,4 +16,5 @@ You can install the package using pip:
 
 ```bash
 pip install signal_ICT_KulangJamesGatgong_92400133006
+
 
